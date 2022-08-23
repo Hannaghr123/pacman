@@ -6,7 +6,7 @@ kaboom({
     fullscreen: true,
     clearColor: [0,0.2,0.95,0.4],
     debug: true,
-    scale: 2,
+    scale: 1,
 });
 loadRoot("./sprites/");
 loadSprite('pacblock','pacblock.png');
